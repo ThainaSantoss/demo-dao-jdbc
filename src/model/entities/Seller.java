@@ -29,7 +29,10 @@ public class Seller implements Serializable{
 		this.birthDate = birthDate;
 		this.baseSalary = baseSalary;
 		this.department = department;
+		
 	}
+	
+	 
 
 	public Integer getId() {
 		return id;
